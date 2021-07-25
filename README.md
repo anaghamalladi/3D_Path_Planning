@@ -12,8 +12,8 @@ to be pruned and smoothed. An approach could be to fit a spline over the points 
 would produce a smooth path.
 
  Developers: Kushagra Khare, Rachit Jain, Anagha Malladi
- Mentor:Prof. Srisha Rao, IIIT-B
- Project Duration: May ‘21 - Aug '21 
+<b> Mentor:Prof. Srisha Rao, IIIT-B<b>
+ <b>Project Duration: May ‘21 - Aug '21 <b>
 ## Goal
 In this project, we aim to provide an algorithm for 3D Path Planning. We will implement a 
 RRT-A* based 3D Path Planning algorithm. The algorithm would include path pruning with 
