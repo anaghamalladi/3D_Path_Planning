@@ -13,7 +13,7 @@ would produce a smooth path.<br>
 <br>
 <b> Developers: </b> Kushagra Khare, Rachit Jain, Anagha Malladi<br>
 <b> Mentor: </b> Prof. Srisha Rao, IIIT-B <br>
-<b> Project Duration: </b> May â€˜21 - Aug '21 <br>
+<b> Project Duration: </b> May ¡®21 - Aug '21 <br>
 
 ## Goal
 In this project, we aim to provide an algorithm for 3D Path Planning. We will implement a 
